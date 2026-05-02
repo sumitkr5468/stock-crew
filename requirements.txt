@@ -1,8 +1,8 @@
+streamlit
+python-dotenv
+reportlab
 crewai
 crewai-tools
 yfinance
-python-dotenv
-requests
+pandas
 pandas-ta
-streamlit
-reportlab
