@@ -5,5 +5,4 @@ crewai
 crewai-tools
 yfinance
 pandas
-numba==0.58.1
 pandas-ta
