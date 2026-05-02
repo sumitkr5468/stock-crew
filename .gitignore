@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Mac junk
+.DS_Store
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# --- Recommended Additions ---
+# Generated Research Reports (so you don't accidentally commit user PDFs)
+*.pdf
+
+# Streamlit local secrets (just in case you ever use them locally instead of .env)
+.streamlit/secrets.toml
+
+# CrewAI / SQLite cache files (CrewAI sometimes creates these for memory)
+*.sqlite
+*.db

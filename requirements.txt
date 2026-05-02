@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+yfinance
+python-dotenv
+requests
+pandas-ta
+streamlit
+reportlab
